@@ -67,3 +67,10 @@ My Favourite Book {
     background: rgb(90, 86, 224);
     background: radial-gradient(circle, rgba(90, 86, 224, 0.9304096638655462) 0%, rgba(62, 143, 83, 1) 22%, rgba(232, 206, 0, 1) 42%, rgba(116, 219, 154, 0.7847514005602241) 85%, rgba(210, 40, 40, 0.9836309523809523) 100%);
 }
+
+.line {
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    text-align: center;
+}
